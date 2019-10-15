@@ -1,0 +1,10 @@
+package ee.tthk.tarpe17.Painter;
+
+public class Bucket {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
